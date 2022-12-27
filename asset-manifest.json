@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/note-keeper/static/css/main.aedd4ae0.css",
+    "main.js": "/note-keeper/static/js/main.6c86b041.js",
+    "static/media/HD-wallpaper-flowers-art-red-colorful-frame-card-dominique-savidge-flower-pink-watercolor-blue.jpg": "/note-keeper/static/media/HD-wallpaper-flowers-art-red-colorful-frame-card-dominique-savidge-flower-pink-watercolor-blue.903e877131fa152e2be7.jpg",
+    "index.html": "/note-keeper/index.html",
+    "main.aedd4ae0.css.map": "/note-keeper/static/css/main.aedd4ae0.css.map",
+    "main.6c86b041.js.map": "/note-keeper/static/js/main.6c86b041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aedd4ae0.css",
+    "static/js/main.6c86b041.js"
+  ]
+}
